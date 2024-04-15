@@ -27,4 +27,12 @@ body {
   width: 100px;
   height: 100px;
   background-color: blue;
+
+  /* one way */
+  /* position: absolute;
+  right: 0; */
+
+  /* second way */
+  position: fixed;
+  right: 0;
 }
